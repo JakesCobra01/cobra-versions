@@ -1,7 +1,8 @@
 {
     "Cobra_ShowID": "3.1.1",
     "cobra-admin": "1.9.6",
-    "cobra-appearance": "0.11.0",
+    "cobra-appearance": "0.12.0",
+    "cobra-autoshot": "1.1.0",
     "cobra-bars": "1.0.3",
     "cobra-broadcastmic": "1.7.3",
     "cobra-callouts": "0.2.2",
@@ -16,7 +17,7 @@
     "cobra-gavel": "1.1.2",
     "cobra-illegalmedic": "1.0.2",
     "cobra-insurance": "1.1.2",
-    "cobra-inventory": "1.19.0",
+    "cobra-inventory": "1.20.0",
     "cobra-justice": "0.5.2",
     "cobra-justice-core": "1.3.4",
     "cobra-k9": "1.1.2",
